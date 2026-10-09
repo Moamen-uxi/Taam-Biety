@@ -9,7 +9,7 @@ Ta'am Beity is a home-cooked food ordering platform designed to connect customer
 This UI/UX case study documents the design process, including user research, market and competitor analysis, identifying user needs, developing user personas, organizing the user journey, and designing the user interface.
 
 ## 👥 Team Members
-1. **Moamen Abdel-Latif**
+1. **Moamen Abdel-Latif (Team Leader)**
 2. **Marah Othman**
 3. **Mona Mahmoud**
 4. **Angham Atef**
