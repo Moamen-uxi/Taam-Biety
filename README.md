@@ -10,7 +10,7 @@ This UI/UX case study documents the design process, including user research, mar
 
 ## 👥 Team Members
 1. **Moamen Abdel-Latif (Team Leader)**
-2. **Marah Othman**
+2. **Marah Osman**
 3. **Mona Mahmoud**
 4. **Angham Atef**
 5. **Mohamed El-Beid**
