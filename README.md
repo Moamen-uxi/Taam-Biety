@@ -60,3 +60,19 @@ This UI/UX case study documents the design process, including user research, mar
 **Project Type:** UI/UX Design  
 **Team Size:** 5 Members  
 **Instructor:** Mohamed Kamar
+
+
+
+### . Competitor Analysis
+![Competitor Analysis](Competitor Analysis for Home Food Delivery.png)
+
+
+
+### . Survey Analysis
+![Competitor Analysis](Survey ana.jpeg)
+
+### 6. Wireframes
+![Wireframes](images/06-wireframes.png)
+
+### 7. Final UI Design
+![Final UI Design](images/07-final-ui.png)
