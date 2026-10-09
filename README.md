@@ -65,10 +65,11 @@ This UI/UX case study documents the design process, including user research, mar
 ## 🖼️ Case Study Preview
 
 ### 1. Competitor Analysis
-![Competitor Analysis](Taam-Biety/Competitor-Analysis-for-Home-Food-Delivery.png)
+<img width="1536" height="1024" alt="Competitor Analysis for Home Food Delivery" src="https://github.com/user-attachments/assets/e936deae-3a27-47b2-93cc-f51ab376b1dc" />
 
 
 ### 2. Survey Analysis
-![Final UI Design](Taam-Biety/Survey-ana.jpeg)
+<img width="1280" height="1169" alt="Survey ana" src="https://github.com/user-attachments/assets/9e4cef0b-a9f9-46ac-8ec0-4856739d9a13" />
+
 
 
