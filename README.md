@@ -65,9 +65,9 @@ This UI/UX case study documents the design process, including user research, mar
 ## 🖼️ Case Study Preview
 
 ### 1. Competitor Analysis
-![Competitor Analysis](images/Competitor-Analysis-for-Home-Food-Delivery.png)
+![Competitor Analysis](Competitor-Analysis-for-Home-Food-Delivery.png)
 
 
 ### 2. Survey Analysis
-![Final UI Design](images/Survey-ana.jpeg)
+![Final UI Design](Survey-ana.jpeg)
 
