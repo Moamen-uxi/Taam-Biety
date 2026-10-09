@@ -64,27 +64,10 @@ This UI/UX case study documents the design process, including user research, mar
 
 ## 🖼️ Case Study Preview
 
-### 1. Project Overview
-![Ta'am Beity Cover](images/01-cover.png)
+### 1. Competitor Analysis
+![Competitor Analysis](images/Competitor-Analysis-for-Home-Food-Delivery.png)
 
-### 2. User Research
-![User Research](images/02-research.png)
 
-### 3. Competitor Analysis
-![Competitor Analysis](images/Competitor Analysis for Home Food Delivery.png)
-
-### 4. User Personas
-![User Personas](images/04-personas.png)
-
-### 5. User Flow
-![User Flow](images/05-user-flow.png)
-
-### 6. Wireframes
-![Wireframes](images/06-wireframes.png)
-
-### 7. Final UI Design
-![Final UI Design](images/07-final-ui.png)
-
-### 8. Survey Analysis
-![Final UI Design](images/Survey ana.jpeg)
+### 2. Survey Analysis
+![Final UI Design](images/Survey-ana.jpeg)
 
